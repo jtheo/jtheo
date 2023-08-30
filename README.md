@@ -1,16 +1,25 @@
-### Hi there 👋
+# Hi there 👋 my name is Matteo.
 
-<!--
-**jtheo/jtheo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+I wanted to be a programmer since I was eight when I saw a Mainframe. I have had or used Vic20, Amiga, PC, and Minix; but then life happened.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+In the last few years, I discovered [Go](github.com/golang/go), and it's been love at first sight; I am still an amateur but improving.
+
+I've been playing with Unix/Linux for 35 years. I wrote more (BA|K)SH code than I want to admit.
+
+I moved to London in 2015, looking for something new to learn and to do.
+
+I've also been playing with Lego since I was a kid, and I still do it.
+
+I'm hungry for TV series, in particular Sci-Fi and BBC.
+
+
+## ⚡ Fun fact
+- I'm Lord of Glencoe and Lochaber along with...
+- Milady [Serena](https://github.com/xlthlx)
+- I'm not burned out; I'm only a bit chargrilled.
+
+
+## 📫 You can find me on
+- Mastodon on [hachiderm](https://hachyderm.io/@jtheo)
+- Twitter as [@jtheo](https://twitter.com/jtheo)
