@@ -1,9 +1,9 @@
 # Hi there 👋 my name is Matteo.
 
 
-I wanted to be a programmer since I was eight when I saw a Mainframe. I have had or used Vic20, Amiga, PC, and Minix; but then life happened.
+I wanted to be a programmer since I was eight when I saw a Mainframe. I have had or used [Vic20](https://en.wikipedia.org/wiki/VIC-20), [Amiga](https://en.wikipedia.org/wiki/Amiga), [PC](https://en.wikipedia.org/wiki/IBM_Personal_Computer), and [Minix](https://en.wikipedia.org/wiki/Minix); but then life happened.
 
-In the last few years, I discovered [Go](github.com/golang/go), and it's been love at first sight; I am still an amateur but improving.
+In the last few years, I discovered [Go](https://github.com/golang/go), and it's been love at first sight; I am still an amateur but improving.
 
 I've been playing with Unix/Linux for 35 years. I wrote more (BA|K)SH code than I want to admit.
 
