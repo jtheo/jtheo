@@ -21,5 +21,5 @@ I'm hungry for TV series, in particular Sci-Fi and BBC.
 
 
 ## 📫 You can find me on
-- Mastodon on [hachiderm](https://hachyderm.io/@jtheo)
+- Mastodon <a rel="me" href="https://hachyderm.io/@jtheo">jtheo@hachiderm</a>
 - Twitter as [@jtheo](https://twitter.com/jtheo)
