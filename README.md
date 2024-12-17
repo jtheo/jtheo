@@ -15,11 +15,12 @@ I'm hungry for TV series, in particular Sci-Fi and BBC.
 
 
 ## ⚡ Fun fact
-- I'm Lord of Glencoe and Lochaber along with...
+- I'm [Lord of Glencoe and Lochaber](https://www.highlandtitles.com/) along with...
 - Milady [Serena](https://github.com/xlthlx)
 - I'm not burned out; I'm only a bit chargrilled.
 
 
 ## 📫 You can find me on
 - Mastodon <a rel="me" href="https://hachyderm.io/@jtheo">jtheo@hachiderm</a>
-- Twitter as [@jtheo](https://twitter.com/jtheo)
+- BlueSky as [jtheo71](https://bsky.app/profile/jtheo71.bsky.social)
+- ~~Twitter as [@jtheo](https://twitter.com/jtheo)~~
