@@ -5,7 +5,7 @@ I wanted to be a programmer since I was eight when I saw a Mainframe. I have had
 
 In the last few years, I discovered [Go](https://github.com/golang/go), and it's been love at first sight; I am still an amateur but improving.
 
-I've been playing with Unix/Linux for 35 years. I wrote more (BA|K)SH code than I want to admit.
+I've been playing with Unix/Linux for more than 35 years. I wrote more (BA|K)SH code than I want to admit.
 
 I moved to London in 2015, looking for something new to learn and to do.
 
@@ -22,5 +22,5 @@ I'm hungry for TV series, in particular Sci-Fi and BBC.
 
 ## 📫 You can find me on
 - Mastodon <a rel="me" href="https://hachyderm.io/@jtheo">jtheo@hachiderm</a>
-- BlueSky as [jtheo71](https://bsky.app/profile/jtheo71.bsky.social)
+- ~~BlueSky as [jtheo71](https://bsky.app/profile/jtheo71.bsky.social)~~
 - ~~Twitter as [@jtheo](https://twitter.com/jtheo)~~
