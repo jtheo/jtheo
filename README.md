@@ -15,8 +15,7 @@ I'm hungry for TV series, in particular Sci-Fi and BBC.
 
 
 ## ⚡ Fun fact
-- I'm [Lord of Glencoe and Lochaber](https://www.highlandtitles.com/) along with...
-- Milady [Serena](https://github.com/xlthlx)
+- I'm [Lord of Glencoe and Lochaber](https://www.highlandtitles.com/) 
 - I'm not burned out; I'm only a bit chargrilled.
 
 
